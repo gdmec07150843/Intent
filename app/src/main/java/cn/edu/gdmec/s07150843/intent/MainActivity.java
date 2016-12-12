@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         et1=(EditText)findViewById(R.id.url);
         et2=(EditText)findViewById(R.id.phone);
         tv1=(TextView) findViewById(R.id.textview1);
+        
     }
 
     public void componentname(View v){
